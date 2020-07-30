@@ -1,0 +1,61 @@
+<section class="ftco-section" id="services-section">
+    <div class="container-fluid px-md-5">
+        <div class="row justify-content-center py-5 mt-5">
+      <div class="col-md-12 heading-section text-center ftco-animate">
+          <h1 class="big big-2">Services</h1>
+        <h2 class="mb-4">Services</h2>
+        <p>.</p>
+      </div>
+    </div>
+        <div class="row">
+                <div class="col-md-4 text-center d-flex ftco-animate">
+                    <a href="#web-design" class="services-1 shadow">
+                        <span class="icon">
+                            <i class="flaticon-analysis"></i>
+                        </span>
+                        <div class="desc">
+                            <h3 class="mb-5" id="web-design">Web Design</h3>
+                            <p>Web design is the process of creating websites. It encompasses several different aspects, including webpage layout, content production, and graphic design. While the terms web design and web development are often used interchangeably, web design is technically a subset of the broader category of web development.
+
+                                Websites are created using a markup language called HTML. Web designers build webpages using HTML tags that define the content and metadata of each page. The layout and appearance of the elements within a webpage are typically defined using CSS, or cascading style sheets. Therefore, most websites include a combination of HTML and CSS that defines how each page will appear in a browser.Some web designers prefer to hand code pages (typing HTML and CSS from scratch), while others use a "WYSIWYG" editor like Adobe Dreamweaver. This type of editor provides a visual interface for designing the webpage layout and the software automatically generates the corresponding HTML and CSS code. Another popular way to design websites is with a content management system like WordPress or Joomla. These services provide different website templates that can be used as a starting point for a new website. Webmasters can then add content and customize the layout using a web-based interface.
+
+                                While HTML and CSS are used to design the look and feel of a website, images must be created separately. Therefore, graphic design may overlap with web design, since graphic designers often create images for use on the Web. Some graphics programs like Adobe Photoshop even include a "Save for Web…" option that provides an easy way to export images in a format optimized for web publishing.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 text-center d-flex ftco-animate">
+                    <a href="#web-design-adv" class="services-1 shadow">
+                        <span class="icon">
+                            <i class="flaticon-flasks"></i>
+                        </span>
+                        <div class="desc">
+                            <h3 class="mb-5" id="web-design-adv">Web Design Adiviceing</h3>
+                            <p>Technology plays a huge role in our daily lives, from the simplest of apps to the most groundbreaking inventions. Every website or piece of software that we encounter has been built by a web developer — but what exactly is web development, and what does a web developer do?
+
+                                To the outside eye, it can seem like a complicated, confusing and somewhat inaccessible field. So, to shed some light on this fascinating industry, we’ve put together the ultimate introduction to web development and what it takes to become a fully-fledged web developer.And show you the most essential skills and tools you’ll need to break into the industry. Let’s get some background first, though — we need to learn to walk before we can run.</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4 text-center d-flex ftco-animate">
+                    <a href="#wd" class="services-1 shadow">
+                        <span class="icon">
+                            <i class="flaticon-ideas"></i>
+                        </span>
+                        <div class="desc">
+                            <h3 class="mb-5" id="wd">Web Development</h3>
+                            <p>Web development refers to building, creating, and an maintaining websites. It includes aspects such as web design, web publishing, web programming, and database management.
+
+                                While the terms "web developer" and "web designer" are often used synonymously, they do not mean the same thing. Technically, a web designer only designs website interfaces using HTML and CSS. A web developer may be involved in designing a website, but may also write web scripts in languages such as PHP and ASP. Additionally, a web developer may help maintain and update a database used by a dynamic website.
+                                
+                                Web development includes many types of web content creation. Some examples include hand coding web pages in a text editor, building a website in a program like Dreamweaver, and updating a blog via a blogging website. In recent years, content management systems like WordPress, Drupal, and Joomla have also become popular means of web development. These tools make it easy for anyone to create and edit their own website using a web-based interface.
+                                
+                                While there are several methods of creating websites, there is often a trade-off between simplicity and customization. Therefore, most large businesses do not use content management systems, but instead have a dedicated Web development team that designs and maintains the company's website(s). Small organizations and individuals are more likely to choose a solution like WordPress that provides a basic website template and simplified editing tools.
+                                
+                                NOTE: JavaScript programming is a type of web development that is generally not considered part of web design. However, a web designer may reference JavaScript libraries like jQuery to incorporate dynamic elements into a site's design.</p>
+                        </div>
+                    </a>
+                </div> 
+                
+            </div>
+        </div>
+</section> 
